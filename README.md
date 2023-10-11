@@ -21,5 +21,5 @@ The code consists of several functions that work together to create a panorama:
 #### `main`
 - The main function loads two images, displays them in separate windows, and allows the user to select corresponding points. It then computes the homography and creates the panoramic image.
 
-
-![Alt Text](image0006.jpg)
+![1st input image](image0006.jpg)
+![2nd input image](image0007.jpg)
