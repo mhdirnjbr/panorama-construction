@@ -21,8 +21,7 @@ The code consists of several functions that work together to create a panorama:
 #### `main`
 - The main function loads two images, displays them in separate windows, and allows the user to select corresponding points. It then computes the homography and creates the panoramic image.
 
-<img src="image0006.jpg" alt="Image 1" width="40%" />
-<img src="image0007.jpg" alt="Image 2" width="40%" />
+<img src="image0006.jpg" alt="Image 1" width="40%" /> <img src="image0007.jpg" alt="Image 2" width="40%" />
 ![Image 1](image0006.jpg) ![Image 2](image0007.jpg)
 
 
