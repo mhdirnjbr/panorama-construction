@@ -24,7 +24,8 @@ The code consists of several functions that work together to create a panorama:
 ### Input Images
 <img src="image0006.jpg" alt="Image 1" width="40%" /> <img src="image0007.jpg" alt="Image 2" width="40%" />
 
-### Results Based On 4 Different Matching Points
+### Result
+<img src="result_panorama.jpg" alt="Constructed Panorama" />
 
 
 
