@@ -1,4 +1,4 @@
-# panorama-construction
+# Panorama Construction
 
 This repository contains a C++ program for creating a panorama by stitching two images together. The code uses the Imagine++ library for graphics and image processing. The program allows the user to select corresponding points in two images and computes a homography matrix to align and merge the images into a single panoramic image.
 
@@ -21,8 +21,11 @@ The code consists of several functions that work together to create a panorama:
 #### `main`
 - The main function loads two images, displays them in separate windows, and allows the user to select corresponding points. It then computes the homography and creates the panoramic image.
 
+### Input Images
 <img src="image0006.jpg" alt="Image 1" width="40%" /> <img src="image0007.jpg" alt="Image 2" width="40%" />
-![Image 1](image0006.jpg) ![Image 2](image0007.jpg)
+
+### Results Based On 4 Different Matching Points
+
 
 
 
