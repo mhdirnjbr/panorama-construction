@@ -1,7 +1,7 @@
 // Imagine++ project
 // Project:  Panorama
-// Author:   Pascal Monasse
-// Date:     2013/10/08
+// Author:   Pascal Monasse & Mahdi Ranjbar
+// Date:     2023/10/11
 
 #include <Imagine/Graphics.h>
 #include <Imagine/Images.h>
