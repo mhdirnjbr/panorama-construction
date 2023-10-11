@@ -24,6 +24,12 @@ The code consists of several functions that work together to create a panorama:
 <img src="image0006.jpg" alt="Image 1" width="48%" />
 <img src="image0007.jpg" alt="Image 2" width="48%" />
 
+<div style="display: flex;">
+    <div style="flex: 50%;">
+        <img src="image0006.jpg" alt="Image 1">
+    </div>
+    <div style="flex: 50%;">
+        <img src="image0007.jpg" alt="Image 2">
+    </div>
+</div>
 
-![1st input image](image0006.jpg)
-![2nd input image](image0007.jpg)
